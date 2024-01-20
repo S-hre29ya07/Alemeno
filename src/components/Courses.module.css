@@ -1,0 +1,15 @@
+.cardsConteainer {
+  max-width: 1366px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin: 50px auto;
+}
+
+.errorMessage {
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 4px;
+}
